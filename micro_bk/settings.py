@@ -74,7 +74,7 @@ WSGI_APPLICATION = 'micro_bk.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/6.0/ref/settings/#databases
 
-DEFAULT_DB_URL = 'postgres://postgres:bot22rp@localhost:5432/micro'
+DEFAULT_DB_URL = 'postgres://postgres:9775137@localhost:5432/miMicro'
 
 DATABASES = {
     'default': dj_database_url.config(
